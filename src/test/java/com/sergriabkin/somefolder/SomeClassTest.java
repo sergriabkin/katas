@@ -3,7 +3,7 @@ package com.sergriabkin.somefolder;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-class SomeClassTest {
+public class SomeClassTest {
 
     @Test
     public void someMethod() {
